@@ -5,7 +5,9 @@ All code is written in Python 3 using PyCharm IDE.
 
 # Requirements
 1. **Tensorflow**
-2. **Keras**
+2. **Keras** with **Tensorflow** as Backend.
+3. **Numpy**
+4. **Scipy**
 
 # Resources
 
