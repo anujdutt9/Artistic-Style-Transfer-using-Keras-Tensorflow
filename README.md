@@ -1,13 +1,15 @@
 # Artistic Style Transfer
 ***This repository contains the code for Style Transfer from an Art to an Input Image using Keras and Tensorflow.***
 
-All code is written in Python 3 using PyCharm IDE.
+All code is written in Python 3 (64-bit) using PyCharm IDE.
 
 # Requirements
 1. **Tensorflow**
 2. **Keras** with **Tensorflow** as Backend.
 3. **Numpy**
 4. **Scipy**
+
+**Update:** ***Code tested on Windows 64-bit, Ubuntu 16.04 and Google Cloud Server Instance (Ubuntu 16.04, 7.50GB RAM)***
 
 # Resources
 
