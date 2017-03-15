@@ -261,6 +261,8 @@ evaluator = Evaluator()
 # Now, we use L-BFGS algorithm to iteratively tune the Loss and the Gradients.
 x = np.random.uniform(0, 255, (1, ht, wd, 3)) - 128.
 
+# NOTE: Increase number of iterations to obtain better results
+# May take a while to run but results are pretty good.
 iterations = 10
 
 for i in range(iterations):
