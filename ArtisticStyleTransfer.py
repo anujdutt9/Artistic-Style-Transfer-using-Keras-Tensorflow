@@ -83,7 +83,7 @@ content_image = K.variable(content_array)
 style_image = K.variable(style_array)
 
 # Create a Tensor (x) which represents the Final Output Image
-# It is a combunation of content and style image
+# It is a combination of content and style image
 
 # Try to keep the contents of "x" as closer to Original Image (content_image)
 # i.e  (x - content_image) approx = 0
